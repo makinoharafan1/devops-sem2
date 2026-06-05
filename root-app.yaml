@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/makinoharafan1/devops-sem2.git
     targetRevision: lab3/etherpad
-    path: apps/guestbook
+    path: apps/etherpad
   destination:
     server: https://kubernetes.default.svc
     namespace: argocd
