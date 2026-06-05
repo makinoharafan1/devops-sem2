@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/makinoharafan1/devops-sem2.git
-    targetRevision: HEAD
+    targetRevision: lab3/etherpad
     path: apps/guestbook
   destination:
     server: https://kubernetes.default.svc
